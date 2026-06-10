@@ -132,7 +132,7 @@ def combustible_restante(combustible, gasto):
 def mision_exitosa(combustible_final, sin_fallas):
     pass    # combustible_final > 0 and sin_fallas
 
-# ===== PROGRAMA PRINCIPAL (Clases 2 y 3) =====
+# ===== PROGRAMA PRINCIPAL =====
 # pedir matricula, masa y velocidad; validar; mostrar codigo y energia.
 # pedir distancia y combustible; calcular consumo y restante.
 # mostrar nivel/estado del tanque y el tiempo de viaje en dias y horas.
